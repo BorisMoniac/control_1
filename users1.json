@@ -1,7 +1,7 @@
 {
     "allowed_serials": ["0025_38D3_1141_277E.", ""],
     "version": "7.1",
-    "download_link": "http://example.com/download",  // Добавьте ссылку на скачивание новой версии
+    "download_link": "http://example.com/download",
     "users": [
         {"serial_number": "0025_38D3_1141_277E.", "username": ""},
         {"serial_number": "", "username": ""},
