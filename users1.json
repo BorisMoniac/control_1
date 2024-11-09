@@ -4,7 +4,7 @@
         ""
     ],
     "version": "7.1",
-    "download_link": "http://example.com/download",  // Ссылка на обновление
+    "download_link": "http://example.com/download",
     "users": [
         {
             "serial_number": "0025_38D3_1141_277E.",
