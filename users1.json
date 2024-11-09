@@ -1,11 +1,24 @@
 {
-    "allowed_serials": ["0025_38D3_1141_277E.", ""],
+    "allowed_serials": [
+        "0025_38D3_1141_277E.",
+        ""
+    ],
     "version": "7.1",
-    "download_link": "http://example.com/download",
+    "download_link": "http://example.com/download",  // Ссылка на обновление
     "users": [
-        {"serial_number": "0025_38D3_1141_277E.", "username": ""},
-        {"serial_number": "", "username": ""},
-        {"serial_number": "", "username": ""}
+        {
+            "serial_number": "0025_38D3_1141_277E.",
+            "username": ""
+        },
+        {
+            "serial_number": "",
+            "username": ""
+        },
+        {
+            "serial_number": "",
+            "username": ""
+        }
     ]
 }
+
 
